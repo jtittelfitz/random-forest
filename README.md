@@ -18,4 +18,4 @@ program will classify suggested lens type (by taking majority vote among trees i
   
 (should return 'soft', but results may vary if the number of trees or samples is too small)
 
-code can be easily modified to run on different attributes, or to learn and classify entirely different database
+code can be easily modified to run on different attributes, or to learn and classify entirely different database, file should be tab separated, with one training example per line, listing all features followed by the proper classification 
